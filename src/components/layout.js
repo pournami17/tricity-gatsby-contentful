@@ -2,6 +2,7 @@ import React from 'react'
 
 import './variables.css'
 import './global.css'
+import './common.css'
 import Seo from './seo'
 import Navigation from './navigation'
 import Footer from './footer'

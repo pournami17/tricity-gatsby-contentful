@@ -1,0 +1,10 @@
+.home-intro-wrap{
+    min-height:100vh;
+    position:relative;
+}
+.text-wrap{
+    padding:40px;
+}
+.red-color {
+    color: #FD5627;
+}

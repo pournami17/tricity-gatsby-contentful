@@ -1,0 +1,38 @@
+.width-50 {
+    width: 50%;
+}
+.width-60 {
+    width: 60%;
+}
+.width-40 {
+    width: 40%;
+}
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-heading {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0px;
+    font-size: 72px;
+    line-height: 86px;
+}
+.main-heading span {
+    margin-bottom: 40px;
+    display: block;
+}
+.sub-heading {
+    font-style: normal;
+    font-size: 38px;
+    line-height: 42px;
+    letter-spacing: 0px;
+}
+.content {
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0px;
+    font-size: 24px;
+    line-height: 29px;
+}
